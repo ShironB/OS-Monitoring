@@ -27,7 +27,7 @@ def processes_monitoring():
 
 #print "CPU"
 #print "============"
-#cpu_monitoring()
+cpu_monitoring()
 #print "\n"
 #print "Memory"
 #print "============"
