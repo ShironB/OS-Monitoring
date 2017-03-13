@@ -11,7 +11,7 @@
         <entry key="affine" value="2.0.0" />
         <entry key="alabaster" value="0.7.10" />
         <entry key="alpaca_static" value="1.5.22" />
-        <entry key="anaconda" value="4.3.0" />
+        <entry key="anaconda" value="4.3.1" />
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.2" />
@@ -103,7 +103,7 @@
         <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.5.4" />
         <entry key="contextlib2" value="0.5.4" />
-        <entry key="continuum-docs" value="2.0.4" />
+        <entry key="continuum-docs" value="2.0.7" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.3.4" />
@@ -950,7 +950,7 @@
         <entry key="r-yaml" value="2.1.14" />
         <entry key="r-zoo" value="1.7_13" />
         <entry key="rasterio" value="0.25.0" />
-        <entry key="reportlab" value="3.3.0" />
+        <entry key="reportlab" value="3.4.0" />
         <entry key="repoze.lru" value="0.6" />
         <entry key="requests" value="2.13.0" />
         <entry key="requests-file" value="1.4.1" />
@@ -1211,6 +1211,7 @@
               <option value="4.1.0" />
               <option value="4.1.1" />
               <option value="1.9.1" />
+              <option value="4.3.1" />
             </list>
           </value>
         </entry>
@@ -2448,6 +2449,7 @@
               <option value="2.0.1" />
               <option value="2.0.3" />
               <option value="2.0.4" />
+              <option value="2.0.7" />
             </list>
           </value>
         </entry>
@@ -9921,6 +9923,7 @@
               <option value="3.3.0" />
               <option value="3.1.44" />
               <option value="3.1.8" />
+              <option value="3.4.0" />
             </list>
           </value>
         </entry>
@@ -11331,6 +11334,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1489069572361" />
+    <option name="LAST_TIME_CHECKED" value="1489429434225" />
   </component>
 </application>
