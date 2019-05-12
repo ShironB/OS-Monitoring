@@ -6,6 +6,10 @@
           <option name="url" value="git@git.earlysense.com:servers/devops.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.earlysense.com" />
+          <option name="userName" value="shiron" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Shiron.Babi\git" />
