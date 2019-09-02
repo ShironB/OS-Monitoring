@@ -1,6 +1,7 @@
 <application>
   <component name="PrintSettings">
     <option name="printScope" value="1" />
-    <option name="FONT_SIZE" value="14" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
+    <option name="FONT_SIZE" value="13" />
   </component>
 </application>
